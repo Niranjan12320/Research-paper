@@ -1,5 +1,10 @@
 # Research-paper
 Detection of fake news using Machine Learning and NLP
+
+#Data set
+ Taking Dataset in Google collab.
+
+#Codes for Implementation
 # 1. Basic Cleaning and Setup
 import pandas as pd
 import matplotlib.pyplot as plt
